@@ -50,4 +50,9 @@ Part 2
 11.	Remote:- Remote, also called remote repository that's hosted on the internet or another internet.
 12.	Repository:- A repository keep track of and saves all the changes made in the file. 
 
+References
+https://www.atlassian.com/git/tutorials
+https://git-scm.com
+https://github.com
+https://www.jetbrains.com/webstorm/
 
