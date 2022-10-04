@@ -21,6 +21,7 @@ https://desktop.github.com
 •	Fill out all the details and then upload a photo of your college id 
 •	It will take a few minutes to verify your id 
 •	After they verify your id, you can use the student developer pack on GitHub
+
 What is WebStrom and what is it used for?
 Webstorm is an integrated development environment or a coding platform that specializes in JavaScript and other related technology. The main purpose of using Webstorm is because it provides a fast and flexible static code analysis. 
 1.	To download WebStorm, click on the click attached below.
